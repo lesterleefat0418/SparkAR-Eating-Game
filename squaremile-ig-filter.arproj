@@ -5494,7 +5494,7 @@
                                   "multiplier": 1,
                                   "unitBase": 10
                                 },
-                                "value": 869.15835
+                                "value": 869.1583251953125
                               },
                               "hidden": true,
                               "horizontalAlignment": "center",
@@ -5590,7 +5590,7 @@
                                   "multiplier": 1,
                                   "unitBase": 10
                                 },
-                                "value": 595.0000032714844
+                                "value": 595
                               }
                             }
                           ],
@@ -20444,7 +20444,6 @@
         "identifier": "patch_graph:387-ac890554-e6ae-427c-86b2-3a4d043ebd65",
         "modelName": "patch_graph",
         "subpatches": [
-          "consumer_patch_model:4069526-762e29f6-58a3-441f-a52f-0980c9acb176",
           "consumer_patch_model:7720465-871ca017-6e62-4798-a164-1fb8162234a4",
           "consumer_patch_model:7720631-871ca017-6e62-4798-a164-1fb8162234a4",
           "consumer_patch_model:7720797-871ca017-6e62-4798-a164-1fb8162234a4",
@@ -21547,26 +21546,6 @@
           -86
         ],
         "values": []
-      },
-      {
-        "identifier": "consumer_patch_model:4069526-762e29f6-58a3-441f-a52f-0980c9acb176",
-        "modelName": "consumer_patch_model",
-        "name": "FinishPage",
-        "object": "rectangle_model369835-7d000e6d-b243-4e91-ae68-fbde3a36b049",
-        "objectProperty": "visible",
-        "position": [
-          2276,
-          1724
-        ],
-        "values": [
-          {
-            "port": "101",
-            "value": {
-              "t": "bool",
-              "v": false
-            }
-          }
-        ]
       },
       {
         "identifier": "consumer_patch_model:412495-7d000e6d-b243-4e91-ae68-fbde3a36b049",
